@@ -1,23 +1,23 @@
-# **Takım İsmi**
+# **Team Name**
 
 Takım Flutter 31
 
-# Ürün İle İlgili Bilgiler
+# Product Details 
 
-## Takım Elemanları
+## Team Members 
 - Ümit Berke Birdal: Scrum Master
 - Zehra Aktürk: Product Owner
 - Ümmügülsüm Köktaş: Developer
 - Yaren Aybüke Uludoğan: Developer
 - Zeynep Baran: Developer
 
-## Ürün İsmi
+## Product Name
 
 --???--
 
 ## Product Backlog URL
 
-[Flutter Team 52 Miro Backlog Board](https://miro.com/app/board/uXjVO4kRs2w=/)
+...
 
 ## Ürün Açıklaması
 
@@ -28,23 +28,20 @@ Scrap App, daire sakinleri tarafından biriktirilmiş apartman ve sitelere ait k
 
 - **Uygulama ikincil fonksiyonu**: Kullanıcı elindeki geri dönüşebilir kıymetli maddeler için teklif almak üzere Scrap App'e girer ve ilan verir, toplayıcı firma, kullanıcının ilanına ilişkin ağırlık ve madde türü gibi bilgileri kullanıcının ilanında görür ve satın alma teklifini kullanıcıya bildirir, kullanıcının teklif onayından sonra, hurda satın alma işlemi gerçekleşir.
 
-## Ürün Özellikleri
+## Product Details 
 
 - Doluluk oranı %75'in üzerinde olan apartman akıllı atık kutularının kutu doluluk oranının geri dönüşüm atık toplayıcılarına bildirilmesi.
 - Doluluk oranı %75'in üzerinde olan apartman akıllı atık kutularındaki geri dönüşüm maddelerinin satın alınmasına ilişkin, toplayıcı firmalar tarafından satın alma teklifini apartman yönetimlerine sunabilmesi ve yönetici tarafından teklifin kabul edilmesi.
 - Apartmandan bağımsız olarak biriktirilmiş bireysel geri dönüşüm maddelerinin satın alımı için toplayıcı firmalardan teklif alma ve toplayıcı çağırma hizmeti.
 - Kullanıcı, apartman yönetimi, atık toplayıcı firma ve uygulama şirketi için geliştirilmiş kullanıcı rolleri, özellikleri ve ekranları.
 
-## Hedef Kitle
+## Target Audiance 
 
-- Çevreci gönüllüler
-- Apartman yöneticileri
-- Apartman sakinleri
-- Bina yönetim şirketleri 
-- Geri dönüşüm merkezleri
-- Geri dönüşüm atık toplayıcıları
+- Students
+- Language learners
+- 
 
-## Juriye Not
+## Note to Jury
 
 İlan formu veritabanına başarılı şekilde veri göndermesine rağmen, tecrübe yetersizliği ve zaman eksikliği sebebiyle ilanlar listesi ve teklif formları veritabanıyla ilişkilendirilememiştir.
 
