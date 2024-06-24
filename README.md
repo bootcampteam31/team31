@@ -7,13 +7,13 @@ Takım Flutter 31
 ## Takım Elemanları
 - Ümit Berke Birdal: Scrum Master
 - Zehra Aktürk: Product Owner
-- ÜmmüGülsüm Köktaş: Developer
-- Yaren aybüke uludoğan: Developer
+- Ümmügülsüm Köktaş: Developer
+- Yaren Aybüke Uludoğan: Developer
 - Zeynep Baran: Developer
 
 ## Ürün İsmi
 
---Scrap App--
+--???--
 
 ## Product Backlog URL
 
