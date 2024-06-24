@@ -1,14 +1,15 @@
 # **Takım İsmi**
 
-Takım Flutter 52
+Takım Flutter 31
 
 # Ürün İle İlgili Bilgiler
 
 ## Takım Elemanları
-- Muhammed Mustafa Aksoy: Scrum Master / Product Owner / Developer
-- Sümeyye Aydoğan: Developer
-- Yunus Emre Gürel: Developer
-- Zeynep Nur Meşe: Aktif Olmayan Üye
+- Ümit Berke Birdal: Scrum Master
+- Zehra Aktürk: Product Owner
+- ÜmmüGülsüm Köktaş: Developer
+- Yaren aybüke uludoğan: Developer
+- Zeynep Baran: Developer
 
 ## Ürün İsmi
 
