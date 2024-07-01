@@ -1,6 +1,8 @@
 # **Team Name**
 
 Takım Flutter 31
+LinguAI
+mundus
 
 # Product Details 
 
@@ -13,7 +15,8 @@ Takım Flutter 31
 
 ## Product Name
 
---???--
+-LinguAI
+-mundus
 
 ## Product Backlog URL
 
@@ -21,12 +24,25 @@ Takım Flutter 31
 
 ## Ürün Açıklaması
 
+LinguAI is a language learning app designed to help people learn in natural environments and authentic materials! 
+It provides an alive dictionary reinforced with AI, letting you scan whatever item in front of you and get immediate results in any language you desire
+**
+Community is everything when you are trying to learn any language because languages are alive just like us. Since we mostly learn more when we give the wrong answers, it is vital to have friends to practice and have fun with!
+** 
+It also allows you to keep track of what you have learned so far and helps you gain better understanding by creating language games based on your content. This way you can truly practice and also learn more with others. Challanging! 
+
+
 Scrap App, daire sakinleri tarafından biriktirilmiş apartman ve sitelere ait kıymetli geri dönüşüm atıklarının, geri dönüştürülebilir atık toplayan firmalar tarafından toplanmasını kolaylaştırır ve apartman yönetimlerinin bir gelir kalemi olarak geri dönüşüm ödemesi almalarını sağlar. Ayrıca hurda ilanı verilebilen bu uygulamada kullanıcılar biriktirdikleri, bakır, demir, çelik, alüminyum, kağıt, cam vb hurdaların satışını ilanlar ile yapabilir. Scrap App, geri dönüştürülebilir atıkların kıymetinine önem verir, apartman ve site gibi, insanların blok halde yaşadığı mekanlarda, onların geri dönüşüm atıklarını topluca biriktirmelerini teşvik eder ve kolaylaştırır. Scrap App kağıt, metal, plastik cam vb ürünlerin geri dönüştürülmesi halinde, insanların kendisi, çevresi ve ülkesi için maddi gelir ve Dünya doğası için sürekli fayda sağlayabileceğini savunur ve geri dönüşüm sayesinde yeniden üretim ve madencilik faaliyetlerinin azaltılabileceğini ve böylece yeniden üretim kaynaklı doğaya olan zararın azaltılması gerektiği fikrini destekler ve yeniden kazanımı hedefler.
 
 
 - **Uygulama birincil fonksiyonu**: Apartman/site sakinlerinin geri dönüşebilir kıymetli atıkları apartman hizmetlisi tarafından düzenli olarak toplanarak, akıllı geri dönüşüm kutusunda biriktirilir, toplayıcı firma biriken atıklara ilişkin kutu doluluk oranını uygulama üzerinden görür ve satın alma teklifini apartman yönetimine uygulama ile bildirir, apartman yönetiminin teklif onayından sonra, atık satın alma işlemi gerçekleşir.
 
+- The major feature of our app is the live dictionary using AI. We believe it could help a lot in language learning since it will be used in the most natural and authentic way possible. No one would look for the meanings of some words on their own just to learn them or read dictionaries like people used to! Thanks to ever evolving technology, now you get to have fun with it as well!
+- ** 
+
 - **Uygulama ikincil fonksiyonu**: Kullanıcı elindeki geri dönüşebilir kıymetli maddeler için teklif almak üzere Scrap App'e girer ve ilan verir, toplayıcı firma, kullanıcının ilanına ilişkin ağırlık ve madde türü gibi bilgileri kullanıcının ilanında görür ve satın alma teklifini kullanıcıya bildirir, kullanıcının teklif onayından sonra, hurda satın alma işlemi gerçekleşir.
+
+- The second feature we have and consider vital in a language learning app is playing interactive games. It helps you to think in the moment and not memorize! It also allows to keep your pace of learning in snyc with what you have already learned. 
 
 ## Product Details 
 
